@@ -1,0 +1,7 @@
+# Allow all search engines to crawl the whole site
+User-agent: *
+Allow: /
+
+# Tell them where the map is
+Sitemap: https://arielpowersolutions.com/sitemap.xml
+
